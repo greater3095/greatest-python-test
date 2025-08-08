@@ -1,0 +1,201 @@
+Patient_ID,Name,Age,Gender,Department,Diagnosis,Treatment,Admission_Date,Discharge_Date,Outcome,Payment_Method,Bill_Amount
+f9d59950-8fd2-4721-8fe9-bee908831fb7,Nicholas Wells,16,Female,Oncology,Diabetes,Surgery,2024-12-13,2025-07-25,Under Treatment,Insurance,6661.03
+0e6e7bc3-8a1f-4546-a01e-2e83af721a35,Leah Stewart,78,Male,Cardiology,Fracture,Observation,2025-03-23,2025-07-09,Recovered,Insurance,8569.3
+5ab25ee4-7ea8-4a9f-b460-2a865d5a26b2,Richard Lowery,31,Female,Neurology,Hypertension,Surgery,2025-06-17,2025-04-30,Under Treatment,Cash,3524.41
+9c7e7413-7580-499c-8cbc-6a16b15f0967,Bernard Perez,90,Female,Radiology,Asthma,Observation,2025-06-02,2025-04-25,Under Treatment,Insurance,4323.42
+be8d2bf0-05cb-43b5-9368-e010b5417272,Sarah Gonzalez,17,Male,Cardiology,Cancer,Chemotherapy,2024-09-26,2024-08-24,Under Treatment,Cash,2146.78
+f1388599-028c-45ea-8c40-96b596458f53,Sonya Patterson,56,Other,Emergency,Cancer,Chemotherapy,2024-09-09,2025-03-25,Recovered,Cash,4546.9
+0d9d5508-0f16-4448-a133-afb8728f9cd5,Bruce Larson,58,Male,Radiology,Diabetes,Rehabilitation,2024-08-10,2025-06-07,Recovered,Credit Card,8615.28
+f1f17bbc-1d2c-48ef-b296-3e7883cd9aa2,Monica Delgado,10,Male,Radiology,Migraine,Surgery,2024-11-27,2025-07-25,Under Treatment,Insurance,483.99
+adf73756-4dd2-4c36-aa29-62573fbec904,Gail Jacobs,4,Male,Emergency,Fracture,Medication,2025-08-04,2025-04-13,Recovered,Insurance,9629.01
+63a1d82e-38e2-43e3-be6c-d08520603644,Amanda Tyler,80,Other,Neurology,Fracture,Medication,2025-05-08,2024-12-15,Recovered,Insurance,4154.74
+a060b0b6-9c59-42bc-bad9-7bc9e222a892,Rebecca Cooper,18,Female,Radiology,Diabetes,Therapy,2025-07-11,2024-09-16,Under Treatment,Insurance,9428.66
+faf57abe-7c9e-4dbf-928f-5979f89bc18c,Monica Taylor,12,Male,Radiology,Fracture,Rehabilitation,2025-07-17,2024-09-25,Under Treatment,Credit Card,3707.83
+f3035975-8281-4117-bbd0-d06428839cda,Richard Curtis,54,Male,Pediatrics,Fracture,Observation,2025-05-16,2025-07-12,Recovered,Credit Card,5529.28
+b2e31462-36ed-4b87-9ad4-ce6fe2a35bae,Kyle Miller,58,Female,Emergency,Migraine,Chemotherapy,2025-08-04,2024-11-09,Recovered,Cash,8113.43
+f563b53b-fe46-4087-917b-e94465aec8be,Teresa Thomas,16,Other,Radiology,Migraine,Chemotherapy,2024-12-29,2025-04-02,Under Treatment,Insurance,4455.72
+89372d8e-6008-4301-a624-00a0691cf153,Matthew Pham,13,Female,Orthopedics,Migraine,Chemotherapy,2025-02-02,2025-04-24,Under Treatment,Credit Card,4763.42
+ad328ad3-5479-40df-8815-2449f5fa386a,Sarah Smith,49,Female,Emergency,Fracture,Rehabilitation,2025-01-11,2025-02-09,Under Treatment,Credit Card,8225.87
+a0d688b2-9273-4439-8a88-be42139effa7,Jordan Chapman,53,Male,Orthopedics,Migraine,Medication,2025-04-06,2024-11-21,Under Treatment,Cash,1453.57
+e64a71af-4867-4d3b-ad67-71bb24080779,Wendy Cole,95,Female,Neurology,Hypertension,Chemotherapy,2025-03-23,2024-12-22,Recovered,Cash,432.65
+d6a38eff-17e4-48b8-a753-0a0eb2678d4d,Steven Phillips,17,Male,Pediatrics,Diabetes,Medication,2025-03-19,2025-06-24,Recovered,Cash,1417.71
+6c1f9d67-87e1-4f11-98a8-7c2e57850952,Miranda Robinson,13,Other,Orthopedics,Fracture,Surgery,2025-02-25,2024-09-22,Recovered,Cash,8444.41
+b9dae9a2-49eb-4ad6-b8b5-b112e1b868a7,Shannon Ward,18,Male,Emergency,Asthma,Observation,2025-02-27,2024-11-29,Deceased,Insurance,7256.11
+c634239c-923a-4321-a036-c6f8f2542c22,Amanda Hays,62,Other,Pediatrics,Infection,Chemotherapy,2025-02-21,2024-09-24,Recovered,Credit Card,6429.8
+a1c2d92d-871a-4540-b19d-dc87a135dd5d,Dennis Cline,87,Other,Oncology,Migraine,Rehabilitation,2024-10-20,2025-04-06,Deceased,Credit Card,6472.66
+e8d221f2-e009-4500-90e6-379f3ca8818a,Jesse Mejia,51,Male,Emergency,Hypertension,Chemotherapy,2025-04-19,2025-06-12,Recovered,Insurance,9760.03
+69403d22-e623-4e22-bd7e-bbc220c6baa0,Francisco Mcguire,99,Male,Radiology,Asthma,Surgery,2024-08-09,2025-07-26,Recovered,Insurance,1477.35
+1b09b757-25d2-4e87-9a1c-79cdc0252896,Michael Bishop,44,Female,Cardiology,Diabetes,Therapy,2024-09-02,2025-01-05,Recovered,Cash,1591.98
+40814c64-3783-4f9e-8bf2-1f4a3f0de13d,Bryan Cook,57,Other,Oncology,Asthma,Chemotherapy,2024-09-04,2025-02-05,Under Treatment,Cash,8575.44
+50cc7126-129c-442b-81cf-7067987fc8ab,Crystal Mcmillan,60,Female,Orthopedics,Diabetes,Radiation,2024-12-14,2024-09-19,Deceased,Insurance,2630.77
+661b8d35-50c6-4b27-83c4-e6845ac2a212,Cheryl Adams,39,Other,Emergency,Asthma,Therapy,2025-02-06,2025-07-03,Under Treatment,Cash,4235.49
+c881dcdb-acdf-4672-9105-9a0819c18d5c,Traci Perez,6,Female,Orthopedics,Fracture,Observation,2024-08-20,2025-07-04,Recovered,Insurance,1932.49
+7183719e-d07f-47f4-baeb-1f6aeca065be,Roger Walker,23,Female,Emergency,Migraine,Rehabilitation,2024-09-07,2025-03-12,Under Treatment,Cash,3310.32
+7512a553-0f66-406e-8845-20bff4251dee,Richard Anthony,88,Female,Pediatrics,Fracture,Rehabilitation,2025-06-18,2025-07-18,Recovered,Insurance,9618.17
+63cf2133-c1a9-4533-91ee-c2d1c2581e7d,Wendy Nelson,85,Male,Orthopedics,Fracture,Surgery,2024-11-06,2025-06-08,Under Treatment,Credit Card,5081.25
+af0baf79-db5f-4940-ad7e-9e4cfee48bde,Gregory Berg,27,Other,Neurology,Migraine,Medication,2025-05-04,2024-12-30,Recovered,Credit Card,647.12
+bfc27455-9e7b-492c-9667-144d7dcb0d0d,Anna Aguilar,3,Other,Orthopedics,Migraine,Observation,2025-08-05,2025-01-16,Recovered,Insurance,183.79
+11cdf03f-77a0-419d-a242-47a7d70f9fbd,Dean Johnson,40,Male,Emergency,Fracture,Therapy,2024-10-07,2024-11-27,Under Treatment,Credit Card,7748.69
+23f75b12-b2f5-4481-be70-6a589f879ead,Anna Reynolds,55,Male,Oncology,Asthma,Surgery,2025-04-05,2024-10-04,Recovered,Insurance,7827.6
+7bdb6230-30d9-4611-9a93-995bffe154e3,Angela Baker,34,Female,Neurology,Hypertension,Observation,2024-09-30,2024-11-21,Recovered,Insurance,2151.38
+5132a1f4-0719-450e-a022-3ce8634b9564,Abigail Sullivan,58,Male,Pediatrics,Cancer,Medication,2025-05-03,2025-01-14,Under Treatment,Insurance,5161.46
+f69bd9ce-9a99-42de-9939-056bb9d64f16,John Knox,55,Male,Cardiology,Diabetes,Radiation,2025-03-03,2025-03-19,Under Treatment,Insurance,1882.14
+5469864d-b115-4eb9-87b1-a2d123634e7f,Michelle Wade,74,Male,Cardiology,Infection,Therapy,2025-06-01,2024-11-04,Recovered,Insurance,1554.15
+9b56833e-9669-4f49-8ce7-3c3dca44b2ac,Derek Hanson,74,Other,Neurology,Migraine,Radiation,2024-11-14,2024-12-04,Recovered,Cash,9272.55
+de98201e-8015-4950-95ef-d41ae7fa858f,Lisa Sanford,47,Female,Pediatrics,Migraine,Therapy,2025-01-19,2024-12-04,Recovered,Cash,2863.72
+44cfb85e-40ec-44a0-b416-145c66b09938,Jamie Moreno,82,Male,Radiology,Migraine,Surgery,2025-07-02,2024-12-09,Recovered,Insurance,541.61
+fd422d35-4aa3-4021-8522-72f879de0378,Ashley Davila,27,Male,Cardiology,Asthma,Observation,2024-11-30,2024-08-25,Recovered,Insurance,531.25
+679cbc19-2bea-435e-b39a-4c7e48d705a0,Christopher Smith,91,Female,Oncology,Asthma,Radiation,2025-04-10,2024-09-26,Recovered,Insurance,1881.04
+c2ec768c-33d0-4089-9c60-8319472225fb,Wayne Manning,13,Female,Orthopedics,Hypertension,Surgery,2024-10-06,2024-10-01,Recovered,Insurance,5464.75
+fd45f7e7-9b54-4ee8-9a6f-3ab6d2f78dfd,Angela Thomas,19,Female,Oncology,Diabetes,Medication,2024-10-09,2025-07-31,Under Treatment,Cash,3464.5
+505bb603-bafc-4a4f-b2b9-1e1a7dab602b,Matthew Weaver,6,Male,Oncology,Cancer,Radiation,2025-02-26,2025-04-01,Recovered,Cash,1408.42
+83db819a-6a04-4254-9a4d-e34aa9265d31,Cheryl Thomas,43,Other,Cardiology,Asthma,Rehabilitation,2025-07-17,2025-06-01,Recovered,Insurance,2076.92
+45032dde-edaa-4321-a853-5179f2be23be,Kevin Hatfield,36,Female,Neurology,Asthma,Surgery,2025-07-07,2025-05-20,Recovered,Cash,9290.62
+5e0fd0bf-4278-424f-9e91-0b5f8036edf2,Pamela Miller,72,Female,Orthopedics,Diabetes,Rehabilitation,2024-11-10,2024-08-10,Under Treatment,Insurance,1585.24
+a784e9b0-608e-4ba3-aaa6-cb66760388e7,Elizabeth Smith,86,Female,Emergency,Infection,Observation,2025-07-09,2024-09-20,Recovered,Cash,8692.28
+ac683f13-edee-4071-96ad-d377be9436da,Linda Diaz,36,Female,Radiology,Fracture,Chemotherapy,2024-12-19,2025-02-13,Recovered,Cash,2760.79
+efb859b3-bdf6-43bc-94a8-6d23beb6292a,Christina Bryant,31,Other,Oncology,Migraine,Radiation,2024-12-03,2024-12-22,Under Treatment,Credit Card,9377.34
+2de71f29-54da-4f5b-9f42-c004e6a0062d,Sarah Jones,77,Other,Emergency,Hypertension,Chemotherapy,2025-01-22,2024-11-26,Recovered,Credit Card,4276.79
+f9540eb3-3bab-4253-a4dc-3f589a860dba,Michelle Ellison,32,Female,Orthopedics,Migraine,Therapy,2025-04-16,2024-10-24,Recovered,Insurance,7760.1
+473bf0c2-c43c-4024-b750-1b67a3fc878a,Jay Torres,41,Female,Neurology,Fracture,Rehabilitation,2024-09-09,2025-06-27,Under Treatment,Cash,9553.54
+fcbea79f-25ad-4579-8237-9c168a0e0649,Christopher Roach,53,Other,Emergency,Migraine,Radiation,2024-12-03,2025-04-10,Under Treatment,Cash,1647.45
+a20f008f-ee54-416e-a9d6-9cde0f871d95,Kimberly Adams,46,Female,Oncology,Asthma,Chemotherapy,2025-04-22,2024-11-02,Recovered,Credit Card,1776.19
+6be4e263-75e6-4124-a826-0f4198dbea6b,Marcus Brewer,75,Female,Radiology,Fracture,Rehabilitation,2025-03-12,2024-11-18,Recovered,Cash,5287.06
+e19089d4-602f-4f9d-ae2e-88534c03c460,Craig Norris,55,Male,Oncology,Hypertension,Chemotherapy,2025-06-04,2024-12-29,Recovered,Cash,2008.59
+36b090e8-4bb6-4282-93a7-cbc7e5480b27,Susan Brown,3,Female,Oncology,Hypertension,Observation,2024-11-08,2024-08-22,Under Treatment,Insurance,2472.93
+58fd1f96-44c6-40bc-823a-03918b9f92f4,Maureen Campbell,68,Male,Emergency,Infection,Therapy,2025-07-11,2025-06-11,Under Treatment,Credit Card,548.07
+488b4256-3788-4d18-bf29-fbb3492ba9c6,Nicholas Walker,17,Other,Neurology,Infection,Medication,2025-01-10,2025-05-22,Under Treatment,Insurance,7658.43
+8ff01db1-52d4-4c20-93fa-e19c967688c6,Steven Jones,100,Other,Neurology,Cancer,Chemotherapy,2025-03-22,2025-06-18,Recovered,Insurance,8270.02
+f5d881f7-ad10-4d7d-a716-660a9b5fc79a,David Stark,36,Other,Pediatrics,Fracture,Radiation,2025-06-27,2025-03-06,Deceased,Cash,6995.52
+2a3b3406-001f-4971-a9b7-92ad753d3621,Patrick Thompson,57,Male,Neurology,Cancer,Chemotherapy,2024-09-01,2024-08-22,Recovered,Cash,9313.28
+f88d6ad2-610e-49a1-af8e-6d2a46f75e98,Roberta Cummings,49,Other,Neurology,Migraine,Radiation,2025-05-02,2025-03-13,Under Treatment,Credit Card,5811.05
+06344d58-5196-4643-a406-da975d4cc9ab,Gina Randolph,12,Other,Emergency,Diabetes,Observation,2025-06-06,2024-09-04,Under Treatment,Credit Card,9456.1
+32b0e28f-3b29-42b7-a64c-d0f9929fd99c,David Harmon,74,Male,Cardiology,Migraine,Chemotherapy,2024-08-17,2025-07-28,Under Treatment,Credit Card,4253.2
+7a768f4f-32fe-4033-ba93-758b306ddf83,Jill Flores,30,Male,Cardiology,Infection,Observation,2025-05-22,2025-01-10,Under Treatment,Credit Card,332.52
+19bb656f-c0fa-4df4-994a-d6e0faac286e,Mrs. Kim Wagner,79,Male,Pediatrics,Fracture,Surgery,2025-06-18,2025-03-13,Under Treatment,Insurance,3563.84
+9bca17eb-895c-45a2-af86-59489b703dc8,Richard House,62,Other,Cardiology,Infection,Surgery,2025-04-16,2025-03-04,Recovered,Credit Card,3606.95
+f08c2131-22ee-4fe6-bc2e-297fc25f8373,Robert Willis,28,Male,Radiology,Asthma,Observation,2024-08-21,2025-01-18,Deceased,Insurance,3706.84
+9540b18b-5b51-4952-9781-fa0617e2c0eb,Kathryn Myers,43,Male,Pediatrics,Asthma,Chemotherapy,2024-09-23,2025-05-26,Recovered,Cash,375.72
+79ab343e-5b0c-4a77-aee7-445092bc3d0f,Sonya Walter,46,Male,Orthopedics,Infection,Rehabilitation,2025-03-10,2024-10-27,Recovered,Cash,7019.28
+27cd49ec-79e2-45ec-b223-221b56de36fe,Connie Orr,29,Other,Cardiology,Diabetes,Radiation,2025-06-02,2024-12-20,Recovered,Credit Card,7314.8
+055269ca-d98c-4b0d-b80a-2ee85134762e,Jennifer Mendoza,14,Other,Pediatrics,Hypertension,Medication,2024-10-08,2025-07-20,Under Treatment,Insurance,8320.51
+06899242-edd9-497e-b99a-04638ecb792c,Billy Walker,63,Male,Cardiology,Hypertension,Radiation,2024-12-11,2025-01-26,Recovered,Insurance,8073.39
+b2eb3afa-1217-436f-8c67-34370959ae91,Lisa Fox,11,Other,Emergency,Asthma,Rehabilitation,2025-01-31,2024-11-26,Recovered,Insurance,2226.53
+18063799-63b1-4056-93d3-43fe9f1e4eb0,Sandra Watson,69,Male,Oncology,Asthma,Chemotherapy,2024-11-30,2025-03-16,Under Treatment,Cash,6570.64
+f3aeddbb-409a-4216-94f1-9b940634606e,Emily Fisher,19,Other,Emergency,Fracture,Rehabilitation,2024-08-27,2025-01-10,Recovered,Credit Card,3665.65
+75ec178e-1a08-4026-a447-d3f79caf88ea,Alex Ruiz MD,56,Male,Pediatrics,Infection,Chemotherapy,2024-08-24,2024-12-01,Deceased,Cash,8191.12
+3f511506-6d6a-42e3-bc2d-ee474274ed92,Harry Martin,100,Female,Pediatrics,Asthma,Surgery,2025-05-27,2025-06-29,Recovered,Credit Card,7230.64
+a032547a-95bd-44a1-8529-557f24f98895,Charles Clark,6,Female,Pediatrics,Diabetes,Surgery,2025-05-02,2025-06-12,Recovered,Cash,7928.27
+29563ad6-87b6-4fb7-b38f-6cd45638f3ee,Kaitlyn Gutierrez,45,Other,Pediatrics,Asthma,Therapy,2024-08-11,2024-11-16,Recovered,Insurance,2710.43
+49842e6c-d4c4-4f58-8713-d947eaa858f1,Shelia Hill,95,Female,Orthopedics,Migraine,Chemotherapy,2025-02-13,2025-01-22,Recovered,Credit Card,3292.74
+b4cbc950-16f3-40ef-a6bd-4137c935d48b,Kristy Howell,93,Male,Emergency,Hypertension,Radiation,2025-04-25,2024-09-01,Recovered,Insurance,5953.08
+6962fe2b-a8f2-4fbd-a30a-304645cce5e1,John Martinez,50,Male,Pediatrics,Migraine,Observation,2025-02-26,2024-08-28,Recovered,Credit Card,4226.57
+e1261c70-3a5a-4e2f-b8e8-04efce365b68,Mr. Robert Ewing MD,86,Other,Radiology,Asthma,Radiation,2024-08-23,2025-05-01,Under Treatment,Credit Card,5617.52
+e912d1d8-aef5-439a-adc6-15752c0060ed,Cynthia Williams,4,Female,Neurology,Cancer,Radiation,2025-07-18,2024-10-09,Recovered,Credit Card,5172.5
+6b9667b3-9af3-49a0-89a4-d3809fea958d,Mr. Mathew Miller DDS,44,Male,Pediatrics,Diabetes,Observation,2025-02-27,2024-11-08,Under Treatment,Credit Card,6877.9
+0dda97f8-dd9d-4340-b59e-3e50907f69e7,Donald Harris,40,Other,Orthopedics,Hypertension,Medication,2025-06-06,2025-01-01,Recovered,Insurance,9559.28
+089fd9f7-b9dd-46f9-93fe-ee2e79ec7a49,Dakota Olson,71,Other,Emergency,Asthma,Surgery,2025-05-27,2025-07-03,Recovered,Cash,327.53
+2f3e013f-ae73-4c79-9851-ca52f2749a65,Vanessa Pratt,5,Female,Oncology,Fracture,Rehabilitation,2024-10-05,2025-02-22,Recovered,Cash,6937.55
+f7e8c9e0-7239-431a-8181-ad426b57c7ad,Jeffrey Stewart,43,Other,Oncology,Diabetes,Radiation,2025-03-09,2024-12-07,Under Treatment,Cash,3769.95
+ddda4a7b-2a1a-4770-93a3-820e3c93ef3a,Rachel Schneider,27,Female,Radiology,Hypertension,Rehabilitation,2024-10-05,2025-05-31,Recovered,Credit Card,6018.28
+6bb7b118-072f-418e-a68a-2e15b6b5fbf8,Katie Scott,86,Other,Cardiology,Infection,Chemotherapy,2024-09-04,2025-07-01,Under Treatment,Insurance,7342.49
+8cc31b23-4cff-4dcb-8906-ca71d978e43d,Randall Quinn,19,Other,Neurology,Asthma,Medication,2025-06-29,2024-10-20,Under Treatment,Credit Card,2241.6
+cb689c4b-bcc4-4efa-9330-075e5b8aea07,Sara Wheeler,65,Other,Neurology,Migraine,Rehabilitation,2025-04-14,2025-01-11,Recovered,Insurance,8758.74
+8b38c012-cad8-4697-bbfc-ddd9d8f4d8fb,Jermaine Simpson,23,Female,Oncology,Diabetes,Chemotherapy,2025-04-08,2025-01-01,Recovered,Credit Card,5522.39
+1cefd1c4-e8db-49c3-840d-be80f35dd05a,Brittany Olson,46,Male,Pediatrics,Infection,Observation,2025-02-03,2025-07-18,Recovered,Cash,7002.15
+81d83c57-9bfe-41ae-a5a0-79d9fefbef5b,Michael Moore,26,Male,Cardiology,Fracture,Observation,2024-12-04,2025-06-16,Recovered,Credit Card,2073.6
+e8bb4e4f-63e4-4af9-a26c-7c81a8e6a2e2,Stacey Berry,74,Other,Oncology,Hypertension,Radiation,2024-09-13,2024-12-17,Recovered,Insurance,4707.32
+c4dd2602-7959-4ad2-a90d-5a0e611e4149,Virginia Kim,23,Female,Emergency,Hypertension,Therapy,2025-03-11,2024-08-29,Recovered,Credit Card,4798.65
+ef891f86-9115-4c33-8fab-1e9a9753e995,Bianca Johnson,36,Other,Emergency,Fracture,Chemotherapy,2024-10-25,2024-09-15,Recovered,Credit Card,3018.03
+40d54c0a-ce66-43f9-883d-b59751c5cb2d,Katherine Huerta,93,Female,Radiology,Infection,Therapy,2025-07-27,2025-01-09,Under Treatment,Insurance,9097.85
+520ae326-5a5a-48f9-995b-a080f99b1576,Kayla Roberts,50,Male,Neurology,Fracture,Therapy,2024-10-16,2024-08-29,Recovered,Cash,3841.19
+9fdb0b68-4b36-4696-b4ef-4af1bba711d2,Rebecca Parsons,43,Male,Cardiology,Cancer,Therapy,2025-05-10,2025-05-02,Recovered,Cash,8957.79
+a5b79d3d-f345-4a78-8443-81730189b66f,John Rodriguez DVM,87,Female,Emergency,Hypertension,Chemotherapy,2025-05-27,2025-05-07,Recovered,Insurance,5722.23
+a9c63bac-fe21-4904-92d4-318436b18ed2,Renee Torres,84,Female,Emergency,Fracture,Medication,2024-09-17,2025-04-17,Recovered,Cash,3837.94
+81a782da-e213-4d4e-955a-b3c873283744,Joshua Morse,67,Male,Orthopedics,Cancer,Rehabilitation,2025-07-30,2025-05-25,Under Treatment,Insurance,478.67
+37eda830-8be7-4f10-8b22-3a6b6fefd7e3,Lisa Sanford,29,Male,Neurology,Hypertension,Rehabilitation,2025-05-01,2024-12-22,Recovered,Credit Card,6404.18
+9cb8fb81-5acd-405f-958d-8b7eacd96709,Rebecca Price,51,Other,Orthopedics,Infection,Rehabilitation,2024-09-22,2025-07-02,Recovered,Cash,7985.58
+7c3e90b0-d3be-4b0e-a890-2c1c8027fa32,Joel Marshall,87,Male,Cardiology,Migraine,Observation,2025-07-11,2025-02-13,Under Treatment,Insurance,7078.25
+81907c7e-1841-4ca3-a694-f52573d79628,Michael King,75,Other,Oncology,Fracture,Rehabilitation,2024-08-15,2025-05-29,Under Treatment,Credit Card,2598.11
+6afe6c48-4bcc-4d7c-9308-e7c125208910,Priscilla Pham,86,Female,Orthopedics,Hypertension,Medication,2025-02-25,2025-04-02,Recovered,Insurance,2483.15
+5527e823-e5b5-4b89-92a8-b87ffde2900a,Katherine Anderson,33,Female,Radiology,Fracture,Radiation,2024-08-16,2025-03-10,Deceased,Cash,6160.64
+3c7f978d-00b5-4f9d-8182-28236a8d8c96,Kevin Lee,11,Other,Radiology,Cancer,Therapy,2025-05-29,2025-07-06,Under Treatment,Cash,6890.68
+86c4908f-f384-4521-ba55-f62394da3083,Russell Haley,69,Other,Neurology,Infection,Medication,2025-04-11,2024-12-07,Under Treatment,Cash,6956.93
+097633e4-ffa2-42c7-80b7-b3cb969b192c,Debbie Ritter,68,Male,Oncology,Diabetes,Therapy,2024-09-07,2024-11-08,Under Treatment,Cash,7614.7
+0fd30011-cf74-4f7a-8b8f-7c002a618df1,Dustin Thomas,71,Female,Orthopedics,Migraine,Chemotherapy,2024-10-25,2025-01-03,Recovered,Cash,9911.32
+8e975985-393e-4594-aba1-97d2a2114ae3,Meagan Sanders,18,Male,Neurology,Hypertension,Rehabilitation,2025-04-05,2025-03-23,Under Treatment,Insurance,475.54
+50674400-496f-4e94-ae5a-764defadeaa2,Brenda Martin,89,Other,Emergency,Diabetes,Surgery,2024-11-13,2025-04-18,Under Treatment,Cash,434.17
+d18af60d-efff-4395-b416-ea949428c73b,Lauren Powell MD,1,Other,Cardiology,Infection,Observation,2024-10-13,2025-08-01,Under Treatment,Credit Card,7843.21
+47b29b15-c7c4-4b9c-b04b-81450fc47019,Stanley Anderson,63,Male,Orthopedics,Cancer,Surgery,2025-05-09,2025-03-28,Under Treatment,Credit Card,7590.23
+539f8955-0a89-41ee-a129-0a81bf387591,Gregory Perez,23,Male,Emergency,Diabetes,Rehabilitation,2024-10-30,2025-07-24,Recovered,Cash,4803.3
+43fd442e-a397-49b0-a9dc-353b5c4a2468,Angelica Watson,95,Other,Cardiology,Cancer,Medication,2025-06-14,2025-02-26,Under Treatment,Credit Card,2584.07
+70d47b21-1764-4ea5-838d-3a83f997914a,Brent Smith,79,Female,Cardiology,Cancer,Rehabilitation,2024-08-09,2024-08-15,Recovered,Insurance,8091.41
+c9a5530e-d142-4b9c-a8d0-19949be83f2d,Terry Patrick,42,Other,Radiology,Infection,Therapy,2025-01-04,2025-01-28,Under Treatment,Cash,3992.19
+3d6f6760-0b8d-46d9-bbfb-e83c00c84514,Timothy Smith,90,Male,Cardiology,Migraine,Surgery,2024-10-15,2025-03-21,Recovered,Insurance,875.21
+21cd113c-8d6f-4871-8f1a-b2ed1b3a83d0,Joseph Patrick,86,Other,Cardiology,Cancer,Therapy,2025-04-19,2025-03-05,Under Treatment,Cash,2956.43
+9948c082-1ceb-421a-9979-7b508edd1ebc,Katelyn Brown,94,Female,Orthopedics,Migraine,Radiation,2024-12-31,2025-02-25,Recovered,Insurance,4411.39
+ca44764c-bfda-4036-a55f-378b5f884833,James Levy,55,Other,Oncology,Fracture,Therapy,2024-11-28,2024-08-24,Under Treatment,Cash,3435.91
+49088bc9-4d87-4e17-83fb-0c8ae1906b41,Matthew Hernandez,61,Female,Cardiology,Diabetes,Surgery,2024-10-16,2025-05-02,Recovered,Credit Card,6980.48
+a74d7028-280e-4400-9583-e3e997f8b1c3,Michael Bradshaw,77,Other,Orthopedics,Infection,Chemotherapy,2025-02-11,2025-03-19,Recovered,Insurance,9096.07
+3cb690c2-25b5-416c-9960-d33b7165b3d7,Annette Jordan,57,Other,Oncology,Fracture,Medication,2024-09-30,2025-01-23,Under Treatment,Credit Card,3075.92
+bb8fa24f-26aa-4bcf-8c98-51d931204040,Jennifer Richardson,71,Other,Neurology,Hypertension,Rehabilitation,2025-06-19,2025-04-26,Recovered,Credit Card,8587.13
+995d5421-5b1b-4127-8ae6-076ceb79fb6e,Michelle Everett,20,Other,Oncology,Fracture,Chemotherapy,2025-08-05,2025-04-16,Recovered,Cash,9892.68
+c7dab683-7306-42d7-8c7f-ee07a0720545,Sherry Nichols DDS,56,Female,Emergency,Hypertension,Surgery,2024-11-07,2025-02-07,Under Treatment,Insurance,8641.42
+9960fc00-0521-40f4-b037-114cff24ce19,Caitlin Pineda,48,Female,Oncology,Asthma,Medication,2024-09-14,2025-03-15,Recovered,Cash,2682.35
+e5181ccd-b763-4481-9231-170030d5635d,Ashley Davis,19,Female,Oncology,Fracture,Medication,2024-10-13,2025-06-16,Recovered,Credit Card,9392.24
+4ce83e1d-88c0-477a-969c-ccaf200df39a,Amy Becker,55,Other,Neurology,Hypertension,Rehabilitation,2025-04-28,2024-11-16,Deceased,Credit Card,509.0
+109d1207-488b-4f82-b4be-b8e41845fdb6,Jennifer Martinez,91,Other,Pediatrics,Diabetes,Therapy,2025-06-10,2024-09-14,Recovered,Credit Card,2326.21
+125b3339-6c59-4930-838b-2a85b2faa3a6,Christopher Long,56,Female,Cardiology,Diabetes,Rehabilitation,2025-02-23,2025-05-21,Recovered,Credit Card,8380.58
+7214318f-7a6c-43c1-9de8-72e34021bae3,Kathryn Herrera,65,Male,Neurology,Fracture,Chemotherapy,2025-03-07,2025-03-13,Under Treatment,Cash,3036.58
+0e5bc63f-fdf3-44be-a855-3d9c912a91e1,Grace Brown,45,Other,Orthopedics,Hypertension,Therapy,2024-09-20,2024-12-08,Recovered,Cash,8767.09
+6b7d43d3-e0bf-4f9c-8d6b-20eb2070d30f,Marie Hensley,53,Female,Radiology,Infection,Surgery,2025-01-30,2025-07-06,Under Treatment,Credit Card,3348.84
+6927e526-58f9-4b9c-af82-a56ee6f50c83,Trevor Jackson,13,Female,Neurology,Diabetes,Therapy,2025-03-07,2025-06-01,Recovered,Insurance,3407.29
+b079a248-6788-46f9-a399-e505614363f9,Lori Huerta,67,Male,Neurology,Infection,Medication,2024-12-06,2024-10-23,Recovered,Credit Card,8558.57
+e63d1344-3a2f-43a4-b9ae-b74b5bad1dec,Gabriela Mcdonald,59,Other,Cardiology,Infection,Observation,2024-09-25,2024-10-07,Recovered,Credit Card,4063.73
+3b4edc0b-5ffe-4a74-ae71-1b1c922ccc42,Hannah King,79,Male,Neurology,Cancer,Medication,2025-01-05,2024-12-09,Recovered,Credit Card,4181.97
+0c98f7ec-6366-4527-a482-b8f3f127dc40,Sarah Tran,88,Other,Neurology,Infection,Therapy,2025-02-11,2024-10-30,Recovered,Insurance,3036.47
+2a0d2c4e-97f4-4261-985d-065a80226a11,Amy Sanchez MD,48,Other,Orthopedics,Hypertension,Chemotherapy,2025-04-17,2025-07-19,Recovered,Credit Card,2000.72
+69423265-a589-4e4a-890e-5f51f6988695,Stefanie Pearson,57,Female,Orthopedics,Infection,Rehabilitation,2024-12-07,2025-08-06,Recovered,Insurance,4223.88
+67e593db-42d2-48f0-9140-71f94e93bcc3,Tammie Martinez,22,Male,Cardiology,Hypertension,Therapy,2025-01-05,2024-08-22,Under Treatment,Insurance,4080.43
+81c56135-5a7c-4abb-9532-988df53608c8,Shannon Burch,34,Male,Orthopedics,Diabetes,Rehabilitation,2024-10-14,2025-07-27,Recovered,Insurance,2701.13
+ef988e6f-88ad-4cc9-ac35-43914cca2eaa,Ms. Rhonda Gomez,15,Male,Emergency,Cancer,Observation,2025-03-13,2025-07-25,Recovered,Credit Card,5197.57
+a04822d6-dafd-499a-ab16-7bddb8ee9123,Michelle Roman,78,Female,Orthopedics,Migraine,Rehabilitation,2025-05-15,2024-09-20,Under Treatment,Credit Card,6036.22
+43a5cd4d-0df6-495b-b0e4-c31db94e9682,Daniel Meyer,41,Male,Cardiology,Diabetes,Radiation,2025-04-13,2025-03-25,Recovered,Cash,8319.52
+7d575448-4392-41a5-96af-f55568c5e3ab,Dustin Stephenson,57,Other,Orthopedics,Migraine,Rehabilitation,2025-04-18,2025-06-21,Recovered,Credit Card,4099.66
+36576e08-9646-45d5-906b-7d4a6792bbb8,Jennifer Martinez,2,Female,Emergency,Infection,Medication,2025-04-03,2025-07-13,Deceased,Credit Card,1060.7
+b928a637-f114-48bb-9d0b-45a0f17666b1,Martin Taylor,76,Other,Cardiology,Hypertension,Surgery,2025-07-09,2025-07-22,Under Treatment,Cash,2781.49
+7ee9d0ca-4d1b-40f0-aac8-7bdd9b807ed8,Lisa Walters,12,Female,Oncology,Infection,Chemotherapy,2024-12-22,2025-04-01,Recovered,Credit Card,1249.84
+63ab3ba2-415d-4577-aa41-7a2d868119c5,Luis Pierce,12,Other,Pediatrics,Migraine,Medication,2025-05-04,2024-11-20,Recovered,Cash,2432.02
+e8344b7f-4db2-45cf-89d6-0a2de07de00b,Ryan Thomas,4,Other,Orthopedics,Migraine,Surgery,2024-10-29,2025-07-17,Under Treatment,Insurance,1137.64
+caa19573-053f-486f-b508-10553e6b714c,Joy Weber,48,Other,Radiology,Diabetes,Radiation,2025-01-04,2024-09-13,Under Treatment,Cash,3973.72
+60a4448b-8ca0-46bd-9f72-e313f705d99a,Dr. Jimmy Mendoza DDS,16,Male,Neurology,Fracture,Surgery,2025-01-22,2024-12-25,Recovered,Credit Card,3984.88
+6ffade60-a8d9-43ee-995b-854ab5a2920c,Kathleen Perez,38,Female,Orthopedics,Diabetes,Rehabilitation,2024-08-07,2025-08-05,Under Treatment,Credit Card,1980.84
+68a91dd1-79ce-4f91-ab11-4acf0d875636,Ashley Wilson,32,Other,Cardiology,Asthma,Rehabilitation,2025-03-27,2025-07-14,Recovered,Cash,1318.99
+8d9b86c1-ed85-4291-b0d1-cf0fff50c710,Charles Richard,8,Female,Pediatrics,Cancer,Surgery,2025-04-10,2024-11-01,Recovered,Insurance,3134.94
+85d4102b-aa5e-4ff3-b25d-a72ede75973d,Vicki Matthews,79,Other,Neurology,Infection,Observation,2024-12-08,2024-12-16,Recovered,Cash,9304.95
+80d0b142-77b9-4189-9dcf-270fdbced20e,Wayne Ford,90,Male,Orthopedics,Diabetes,Therapy,2025-06-12,2025-03-27,Recovered,Cash,9256.07
+aa657e91-be34-4d83-8540-fc1a81e05740,Jennifer Guzman,40,Other,Emergency,Asthma,Medication,2024-09-30,2025-04-10,Recovered,Credit Card,5091.73
+95c7a4eb-f12f-453f-aaa1-20a5e0f3a542,Dr. Terri Cruz,51,Other,Oncology,Diabetes,Observation,2024-11-12,2025-05-29,Recovered,Credit Card,8576.45
+3990d61a-35e6-41cf-bde0-bfb85bf73f95,James Thompson,93,Female,Neurology,Fracture,Surgery,2025-04-10,2025-04-21,Recovered,Insurance,6586.69
+9364962a-47e4-4c85-9d6b-d6e4f7121379,Brenda Novak,88,Female,Orthopedics,Migraine,Radiation,2025-07-19,2025-07-02,Recovered,Insurance,8679.51
+465818ab-70b1-4869-bf87-af931eb8f810,Benjamin Colon,76,Female,Emergency,Cancer,Chemotherapy,2025-06-22,2024-10-23,Under Treatment,Cash,9156.08
+a6b63431-ff47-4cec-8040-c93484a99d80,Andrew Williams,99,Female,Pediatrics,Cancer,Rehabilitation,2025-05-17,2025-05-28,Recovered,Insurance,8717.17
+0a8722f7-f96f-4b31-8f0f-2a30ae412bb8,Tom Nunez,96,Male,Neurology,Asthma,Medication,2024-10-16,2024-10-08,Under Treatment,Cash,3678.47
+24df2a2d-da90-41dc-ad9c-c55e1aab2207,Dr. Ronald Harper,64,Male,Pediatrics,Migraine,Chemotherapy,2024-12-05,2024-09-02,Recovered,Insurance,8119.51
+39daa758-1191-42bf-a163-0bc9cca2433e,Teresa Wright,17,Other,Radiology,Cancer,Radiation,2024-10-28,2024-08-10,Under Treatment,Cash,978.98
+6e159d63-3702-40c0-a838-c9c21e217885,Marcus Lara,34,Other,Neurology,Cancer,Therapy,2025-05-17,2024-11-26,Recovered,Insurance,8758.18
+e677d2d2-52e7-48bf-b02d-8e49a1fd120c,Elizabeth Mcdaniel,97,Female,Radiology,Fracture,Observation,2024-11-22,2025-02-22,Under Treatment,Insurance,5408.5
+cb0690a5-2a8c-42da-91f0-ba32d0329396,Matthew Harrison,70,Other,Oncology,Migraine,Medication,2024-11-22,2024-09-06,Under Treatment,Cash,953.05
+306f1c72-eef2-4f25-8ab4-2a2c1ddd1311,Jared Mitchell,59,Female,Radiology,Cancer,Observation,2024-08-20,2024-10-09,Recovered,Credit Card,7768.88
+bd04a554-361f-4ee0-8d07-d7094e26a98e,Lori Smith,7,Male,Cardiology,Asthma,Medication,2024-08-25,2025-05-23,Under Treatment,Insurance,9477.88
+5433466b-0822-45ce-8108-70a8f566a561,Dawn Davis,74,Male,Emergency,Cancer,Rehabilitation,2025-01-11,2025-07-08,Recovered,Insurance,2575.24
+2613a8c4-5674-433c-906f-555fd6fbe15b,Alan Watson,33,Male,Neurology,Infection,Observation,2024-09-11,2025-04-26,Recovered,Insurance,3417.87
+6b894a71-b9b1-436c-926d-1bcd0ffa0454,Taylor Wiggins,24,Female,Neurology,Asthma,Surgery,2024-11-24,2024-09-22,Recovered,Cash,7020.6
+2468d4b4-3183-4bce-9612-e841fc84bbf1,Ann Rodriguez,15,Male,Orthopedics,Cancer,Chemotherapy,2025-03-11,2025-05-08,Recovered,Insurance,4780.78
+7f4ebb6e-7087-467b-ade7-9a4a93e3a0ca,Andrew Davis,90,Female,Orthopedics,Cancer,Medication,2024-11-30,2024-08-13,Recovered,Cash,8209.73
+ffc25e87-40fe-40b1-8db2-56e3b253d881,Curtis Delacruz,16,Other,Emergency,Hypertension,Medication,2025-03-27,2025-07-07,Under Treatment,Credit Card,5060.76
+4d90385c-d199-4b7f-96e8-26506c2417b2,Drew Hall,49,Male,Cardiology,Diabetes,Surgery,2025-02-04,2025-04-25,Under Treatment,Cash,6619.26
+7e36df8e-b47b-4f3e-9eff-a2948085c403,Katrina Hudson,40,Female,Neurology,Asthma,Medication,2025-02-18,2024-12-02,Recovered,Cash,9373.09
+0aa74162-36bf-42d4-bb51-32c4d12cfdba,John Jimenez,7,Other,Neurology,Infection,Radiation,2025-07-27,2025-06-02,Under Treatment,Credit Card,4972.0
+9ae25b30-0890-472a-964b-6d25061a2919,Suzanne Diaz,73,Female,Neurology,Fracture,Surgery,2024-11-15,2024-08-31,Recovered,Credit Card,1348.44
+ea375cd8-f799-4feb-b05a-d58dc6bc7039,Jeffrey Owen,43,Male,Radiology,Asthma,Observation,2024-09-06,2025-03-19,Under Treatment,Credit Card,9034.84
